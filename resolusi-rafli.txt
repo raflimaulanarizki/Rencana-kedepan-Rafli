@@ -3,4 +3,4 @@ RENCANA RAFLI
 - selalu mencari tahu hal yang baru
 - belajar networking
 - Belajar Programing
-- Belajar dll
+- belajar IOT (Arduino, Raspbarry)
